@@ -1,11 +1,11 @@
 {
   "id": "6fe7ce88-8a51-4ff8-80af-cffef25db19a",
-  "name": "ALProject22",
+  "name": "AL For Beginners Tests",
   "publisher": "MyNAVBlog",
   "version": "1.0.0.0",
   "brief": "This extension is for workshops related to AL for Beginners",
   "description": "This extension is for workshops related to AL for Beginners",
-  "privacyStatement": "http://www.mynavblog.com/eula",
+  "privacyStatement": "http://www.mynavblog.com/privacyStatement",
   "EULA": "http://www.mynavblog.com/eula",
   "help": "http://www.mynavblog.com/help",
   "url": "http://www.mynavblog.com/",
@@ -50,7 +50,7 @@
       "to": 50149
     }
   ],
-  "contextSensitiveHelpUrl": "https://ALProject22.com/help/",
+  "contextSensitiveHelpUrl": "http://www.mynavblog.com/help/",
   "showMyCode": true,
   "runtime": "4.0",
   "features": ["TranslationFile"]
