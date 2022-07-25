@@ -1,0 +1,30 @@
+{
+  "id": "4d35d9fd-22c9-452b-89c5-cf74cd47edda",
+  "name": "Bonus Registration",
+  "publisher": "myNAVblog.com",
+  "version": "1.0.0.0",
+  "brief": "Extension allows to register bonuses for customers.",
+  "description": "Extension allows to register bonuses for customers and generate reports for them.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "https://www.myNAVblog.com",
+  "logo": "res/logo.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 65400,
+      "to": 65600
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "features": ["NoImplicitWith"],
+  "runtime": "9.0"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "c8debf74-677e-4ff3-9e3a-847b4f398762",
+  "name": "Bonus Tests",
+  "publisher": "myNAVblog.com",
+  "version": "1.0.0.0",
+  "brief": "Tests for: Extension allows to register bonuses for customers.",
+  "description": "Tests for: Extension allows to register bonuses for customers and generate reports for them.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "4d35d9fd-22c9-452b-89c5-cf74cd47edda",
+      "name": "Bonus Registration",
+      "publisher": "myNAVblog.com",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "5d86850b-0d76-4eca-bd7b-951ad998e997",
+      "name": "Tests-TestLibraries",
+      "publisher": "Microsoft",
+      "version": "20.0.37253.39681"
+    },
+    {
+      "id": "dd0be2ea-f733-4d65-bb34-a28f4624fb14",
+      "name": "Library Assert",
+      "publisher": "Microsoft",
+      "version": "20.0.37253.39681"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "9.0"
+}
